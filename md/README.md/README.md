@@ -1,1 +1,0 @@
-Lecturas diarias de Capilla.

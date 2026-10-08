@@ -4,4 +4,6 @@
 
 Una capilla es un lugar pequeño destinado a la oración. Aquí, cada día, una lectura breve abre un espacio para la atención y el recogimiento.
 
-[Lecturas diarias](index.md)
+## Entradas
+
+- [El pan de hoy y el rostro entero](md/9-2026-10-07-virgen-del-rosario.md) · 7 de octubre de 2026.

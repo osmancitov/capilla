@@ -10,9 +10,9 @@ _La verdad no pide tanto: solo que lo de adentro y lo de afuera coincidan. Pedir
 
 _Lo que rescata no es la fuerza propia sino la confianza simple, esa que se anima a pedir el pan de hoy y nada más._
 
-![El pan de hoy](../img/6-n105-pan-de-hoy-c2769474.jpg)
+![El pan de hoy](../img/chbaah-pan-de-hoy-c2769474.jpg)
 
-![El rostro entero](../img/7-n105-rostro-entero-afaffd3e.jpg)
+![El rostro entero](../img/chbaah-rostro-entero-afaffd3e.jpg)
 
 *_¡Feliz miércoles 7 de octubre!_*
 
@@ -26,7 +26,7 @@ _A ella, que enseña a contar lo bueno con los dedos, le cantamos bajito, como q
 
 _Que hoy la casa huela a pan, la mesa se llene, y nadie se vaya sin haber dicho, al menos una vez, gracias en voz alta._
 
-![La Virgen del Rosario](../img/8-virgen-del-rosario-murillo-91508f18.jpg)
+![La Virgen del Rosario](../img/chbaah-virgen-del-rosario-murillo-91508f18.jpg)
 
 *_¡Feliz día de la Virgen del Rosario!_*
 
@@ -36,6 +36,6 @@ _Que hoy la casa huela a pan, la mesa se llene, y nadie se vaya sin haber dicho,
 
 _Contar de a uno, con los dedos, lo que se agradece: una cuenta por cada pan, cada rostro, cada tarde que no dolió. Así la memoria se vuelve collar y el tiempo, cuenta a cuenta, se ensarta. No hacen falta palabras grandes: basta repetir con cariño lo pequeño, como quien riega. La repetición, bien querida, no es costumbre vacía: es la escalera corta que baja el alma hasta lo cotidiano y lo encuentra bueno._
 
-![Cuenta a cuenta](../img/5-n105-cuenta-a-cuenta-485b7264.jpg)
+![Cuenta a cuenta](../img/chbaah-cuenta-a-cuenta-485b7264.jpg)
 
-![Collar de memoria](../img/4-n105-collar-de-memoria-2dd464e7.jpg)
+![Collar de memoria](../img/chbaah-collar-de-memoria-2dd464e7.jpg)

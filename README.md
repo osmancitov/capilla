@@ -2,7 +2,7 @@
 
 # Capilla
 
-Una capilla es un lugar pequeño destinado a la oración. Aquí, cada día, una lectura breve abre un espacio para la atención y el recogimiento.
+Una capilla es un lugar pequeño destinado a la oración. La palabra viene del latín medieval *cappella*, diminutivo de *cappa*, capa: así se llamó el santuario donde se guardaba la capa de san Martín, y luego cualquier espacio pequeño de oración. Aquí, cada día, una lectura breve abre un espacio para la atención y el recogimiento.
 
 ## Entradas
 

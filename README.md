@@ -6,7 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. Aquí, cada día, una 
 
 ## Entradas
 
-- [La casa reunida](md/cgbaaj_casa-reunida.md) · 9 de octubre de 2026.
+- [La casa reunida](md/cgbaaj_casa-reunida.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbaaj_casa-reunida.html) · 9 de octubre de 2026.
 
 - [Un aliento nuevo](md/cgbaai_aliento-nuevo.md) · 8 de octubre de 2026.
 

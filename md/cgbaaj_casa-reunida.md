@@ -8,14 +8,10 @@ _Que reunamos lo que el miedo dispersa y cuidemos la casa que compartimos. Que l
 
 ![La casa reunida](../img/cgbaaj-casa-reunida.jpg)
 
-**Lo sembrado**
-
 - La pared agrietada y las figuras vueltas de espaldas recuerdan la casa dividida de Lucas 11. Las espigas reunidas encarnan su invitación a recoger juntos.
 - La escoba, la puerta abierta y la familia que entra con pan y luz vuelven cuidado compartido la imagen de la casa barrida.
 
 ![Una mesa para todos](../img/cgbaaj-mesa-todos.jpg)
-
-**Lo sembrado**
 
 - La mesa que recibe a personas de distintas procedencias y el anciano viajero evocan la bendición de Abraham extendida a todos los pueblos en Gálatas 3. El pan compartido recoge la memoria del alimento y la alianza del Salmo 110.
 
@@ -33,8 +29,6 @@ _Que aprendamos de su paciencia a caminar con la luz que alcanza para el próxim
 
 ![La luz amable](../img/cgbaaj-luz-amable.jpg)
 
-**Lo sembrado**
-
 - La lámpara y el camino de Newman recuerdan su poema sobre la luz amable; el libro abierto y la conversación cercana, su búsqueda paciente y su lema de corazón a corazón.
 
 **_¡Feliz memoria de san Juan Enrique Newman!_**
@@ -51,8 +45,6 @@ _Que honremos a quienes sostienen su palabra cuando el camino se vuelve difícil
 
 ![Juntos en el camino](../img/cgbaaj-dionisio-companeros.jpg)
 
-**Lo sembrado**
-
 - Las manos enlazadas de Dionisio y sus compañeros evocan una fidelidad sostenida juntos.
 
 **_¡Feliz memoria de san Dionisio y sus compañeros!_**
@@ -68,8 +60,6 @@ _En memoria de san Juan Leonardi..._
 _Que aprendamos de Juan Leonardi a poner lo que sabemos al servicio de quien llega. Que nuestras manos, capaces de preparar remedios, sepan también abrir un libro y escuchar una pregunta. Que enseñar sea una manera de cuidar, y cuidar una manera de aprender. Que la paciencia se siente a la mesa con los pequeños y cada palabra encuentre un rostro. Que renovemos la casa desde dentro, con atención humilde, trabajo compartido y afecto._
 
 ![El cuidado enseña](../img/cgbaaj-juan-leonardi.jpg)
-
-**Lo sembrado**
 
 - Los frascos de botica, el libro y los oyentes de Leonardi unen sus comienzos y su dedicación a enseñar.
 

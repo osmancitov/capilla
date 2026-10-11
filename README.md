@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [El banquete de todos](md/cgbabb_banquete-todos.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbabb_banquete-todos.html) · 11 de octubre de 2026.
+
 - [Escuchar y hacer](md/cgbaba_escuchar-hacer.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbaba_escuchar-hacer.html) · 10 de octubre de 2026.
 
 - [La casa reunida](md/cgbaaj_casa-reunida.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbaaj_casa-reunida.html) · 9 de octubre de 2026.

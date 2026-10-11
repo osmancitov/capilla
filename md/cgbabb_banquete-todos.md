@@ -8,7 +8,7 @@ _¡Buenos días!_
 
 > El Señor del universo preparará sobre este monte un festín con platillos suculentos para todos los pueblos; un banquete con vinos exquisitos y manjares sustanciosos.
 
-Isaías, Libro de Isaías 25,6. [Fuente](https://bible.usccb.org/es/bible/lecturas/101126.cfm)
+Isaías 25,6. [Fuente](https://bible.usccb.org/es/bible/lecturas/101126.cfm)
 
 _Que aceptemos la invitación de sentarnos juntos, sin preguntar primero quién merece la silla. Que preparemos una mesa donde el cansancio encuentre descanso y las lágrimas una mano cercana. Que aprendamos a compartir cuando sobra y cuando falta, agradeciendo la ayuda que llega. Que ningún camino oscuro nos haga olvidar las aguas tranquilas. Que vistamos de cuidado nuestra presencia y entremos de verdad en la alegría: haciendo sitio, ofreciendo pan y acompañándonos hasta volver juntos._
 

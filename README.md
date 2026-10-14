@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [El fruto paciente](md/cgbabe_fruto-paciente.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbabe_fruto-paciente.html) · 14 de octubre de 2026.
+
 - [La mesa generosa](md/cgbabd_mesa-generosa.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbabd_mesa-generosa.html) · 13 de octubre de 2026.
 
 - [La libertad cuida](md/cgbabc_libertad-cuida.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbabc_libertad-cuida.html) · 12 de octubre de 2026.

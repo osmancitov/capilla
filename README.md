@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Lo que vale ante Dios](md/cgbabj_lo-que-vale.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbabj_lo-que-vale.html) · 19 de octubre de 2026.
+
 - [La moneda y el rostro](md/cgbabi_moneda-rostro.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbabi_moneda-rostro.html) · 18 de octubre de 2026.
 
 - [El nombre bueno](md/cgbabh_nombre-bueno.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbabh_nombre-bueno.html) · 17 de octubre de 2026.

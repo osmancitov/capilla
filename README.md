@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [La herencia de todos](md/cgbacb_herencia-todos.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbacb_herencia-todos.html) · 21 de octubre de 2026.
+
 - [La espera encendida](md/cgbaca_espera-encendida.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbaca_espera-encendida.html) · 20 de octubre de 2026.
 
 - [Lo que vale ante Dios](md/cgbabj_lo-que-vale.md) · [HTML](https://osmancitov.github.io/capilla/html/cgbabj_lo-que-vale.html) · 19 de octubre de 2026.

@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [El manto antes del sol](md/261025_el-manto-antes-del-sol.md) · [HTML](https://osmancitov.github.io/capilla/html/261025_el-manto-antes-del-sol.html) · 25 de octubre de 2026.
+
 - [Todavía este año](md/261024_todavia-este-ano.md) · [HTML](https://osmancitov.github.io/capilla/html/261024_todavia-este-ano.html) · 24 de octubre de 2026.
 
 - [Leer el tiempo](md/261023_leer-tiempo.md) · [HTML](https://osmancitov.github.io/capilla/html/261023_leer-tiempo.html) · 23 de octubre de 2026.

@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Morada de Dios](md/261028_morada-de-dios.md) · [HTML](https://osmancitov.github.io/capilla/html/261028_morada-de-dios.html) · 28 de octubre de 2026.
+
 - [Toda la masa](md/261027_toda-la-masa.md) · [HTML](https://osmancitov.github.io/capilla/html/261027_toda-la-masa.html) · 27 de octubre de 2026.
 
 - [Hijos de la luz](md/261026_hijos-de-la-luz.md) · [HTML](https://osmancitov.github.io/capilla/html/261026_hijos-de-la-luz.html) · 26 de octubre de 2026.

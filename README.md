@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [El último lugar](md/261031_el-ultimo-lugar.md) · [HTML](https://osmancitov.github.io/capilla/html/261031_el-ultimo-lugar.html) · 31 de octubre de 2026.
+
 - [El amor que crece](md/261030_el-amor-que-crece.md) · [HTML](https://osmancitov.github.io/capilla/html/261030_el-amor-que-crece.html) · 30 de octubre de 2026.
 
 - [Bajo las alas](md/261029_bajo-las-alas.md) · [HTML](https://osmancitov.github.io/capilla/html/261029_bajo-las-alas.html) · 29 de octubre de 2026.

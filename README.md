@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Todavía hay lugar](md/261103_todavia-hay-lugar.md) · [HTML](https://osmancitov.github.io/capilla/html/261103_todavia-hay-lugar.html) · 3 de noviembre de 2026.
+
 - [En las manos de Dios](md/261102_en-las-manos-de-dios.md) · [HTML](https://osmancitov.github.io/capilla/html/261102_en-las-manos-de-dios.html) · 2 de noviembre de 2026.
 
 - [Los dichosos](md/261101_los-dichosos.md) · [HTML](https://osmancitov.github.io/capilla/html/261101_los-dichosos.html) · 1 de noviembre de 2026.

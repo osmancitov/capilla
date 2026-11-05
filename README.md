@@ -6,6 +6,8 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Cien ovejas y una](md/261105_cien-ovejas-y-una.md) · [HTML](https://osmancitov.github.io/capilla/html/261105_cien-ovejas-y-una.html) · 5 de noviembre de 2026.
+
 - [Antorchas en el mundo](md/261104_antorchas-en-el-mundo.md) · [HTML](https://osmancitov.github.io/capilla/html/261104_antorchas-en-el-mundo.html) · 4 de noviembre de 2026.
 
 - [Todavía hay lugar](md/261103_todavia-hay-lugar.md) · [HTML](https://osmancitov.github.io/capilla/html/261103_todavia-hay-lugar.html) · 3 de noviembre de 2026.

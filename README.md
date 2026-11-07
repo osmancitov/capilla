@@ -6,6 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Fieles en lo pequeño](md/261107_fieles-en-lo-pequeno.md) · [HTML](https://osmancitov.github.io/capilla/html/261107_fieles-en-lo-pequeno.html) · 7 de noviembre de 2026.
 - [Amigos para mañana](md/261106_amigos-para-manana.md) · [HTML](https://osmancitov.github.io/capilla/html/261106_amigos-para-manana.html) · 6 de noviembre de 2026.
 
 - [Cien ovejas y una](md/261105_cien-ovejas-y-una.md) · [HTML](https://osmancitov.github.io/capilla/html/261105_cien-ovejas-y-una.html) · 5 de noviembre de 2026.

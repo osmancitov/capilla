@@ -6,6 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Volver a dar gracias](md/261111_volver-a-dar-gracias.md) · [HTML](https://osmancitov.github.io/capilla/html/261111_volver-a-dar-gracias.html) · 11 de noviembre de 2026.
 - [Servir sin medir](md/261110_servir-sin-medir.md) · [HTML](https://osmancitov.github.io/capilla/html/261110_servir-sin-medir.html) · 10 de noviembre de 2026.
 - [Un río que sana](md/261109_un-rio-que-sana.md) · [HTML](https://osmancitov.github.io/capilla/html/261109_un-rio-que-sana.html) · 9 de noviembre de 2026.
 - [Lámparas en la noche](md/261108_lamparas-en-la-noche.md) · [HTML](https://osmancitov.github.io/capilla/html/261108_lamparas-en-la-noche.html) · 8 de noviembre de 2026.

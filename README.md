@@ -6,6 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Volver a ver](md/261116_volver-a-ver.md) · [HTML](https://osmancitov.github.io/capilla/html/261116_volver-a-ver.html) · 16 de noviembre de 2026. Una lectura sobre pedir la vista sin callar y volver al primer amor, con las memorias de santa Margarita de Escocia y santa Gertrudis.
 - [Desenterrar el talento](md/261115_desenterrar-el-talento.md) · [HTML](https://osmancitov.github.io/capilla/html/261115_desenterrar-el-talento.html) · 15 de noviembre de 2026. Una lectura sobre poner a trabajar lo que se nos dio, sin miedo ni sueño, con las manos abiertas al pobre.
 - [Clamar día y noche](md/261114_clamar-dia-y-noche.md) · [HTML](https://osmancitov.github.io/capilla/html/261114_clamar-dia-y-noche.html) · 14 de noviembre de 2026. Una lectura sobre pedir sin cansarse, seguros de que la justicia llega, y sobre ayudar al hermano que sigue de camino.
 - [Las manos abiertas](md/261113_las-manos-abiertas.md) · [HTML](https://osmancitov.github.io/capilla/html/261113_las-manos-abiertas.html) · 13 de noviembre de 2026. Una lectura sobre caminar en el amor y soltar lo que nos impide entregar la vida, con la memoria de santa Francisca Javier Cabrini.

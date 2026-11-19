@@ -6,6 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Reconocer la visita](md/261119_reconocer-la-visita.md) · [HTML](https://osmancitov.github.io/capilla/html/261119_reconocer-la-visita.html) · 19 de noviembre de 2026. Una lectura sobre el llanto por la ciudad que no reconoció su hora y el libro sellado que el Cordero ya abrió: comprender, mientras es tiempo, lo que conduce a la paz.
 - [Invertir lo recibido](md/261118_invertir-lo-recibido.md) · [HTML](https://osmancitov.github.io/capilla/html/261118_invertir-lo-recibido.html) · 18 de noviembre de 2026. Una lectura sobre recibirlo todo como moneda prestada y hacerlo fructificar sin miedo, con la dedicación de las Basílicas de San Pedro y San Pablo y la memoria de santa Rosa Filipina Duchesne.
 - [Abrir la puerta](md/261117_abrir-la-puerta.md) · [HTML](https://osmancitov.github.io/capilla/html/261117_abrir-la-puerta.html) · 17 de noviembre de 2026. Una lectura sobre dejar la tibieza, bajar del árbol y abrir la puerta al que toca, con la memoria de santa Isabel de Hungría.
 - [Volver a ver](md/261116_volver-a-ver.md) · [HTML](https://osmancitov.github.io/capilla/html/261116_volver-a-ver.html) · 16 de noviembre de 2026. Una lectura sobre pedir la vista sin callar y volver al primer amor, con las memorias de santa Margarita de Escocia y santa Gertrudis.

@@ -6,6 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Dios de vivos](md/261121_dios-de-vivos.md) · [HTML](https://osmancitov.github.io/capilla/html/261121_dios-de-vivos.html) · 21 de noviembre de 2026. Una lectura sobre el testimonio que la muerte no apaga, el Dios de Abraham, Isaac y Jacob que no es Dios de muertos sino de vivos, y la memoria de la Presentación de la Virgen María.
 - [Dulce y amarga](md/261120_dulce-y-amarga.md) · [HTML](https://osmancitov.github.io/capilla/html/261120_dulce-y-amarga.html) · 20 de noviembre de 2026. Una lectura sobre comer la palabra entera, dulce como la miel y amarga al bajar, y dejar que limpie la casa del corazón hasta volverla casa de oración.
 - [Reconocer la visita](md/261119_reconocer-la-visita.md) · [HTML](https://osmancitov.github.io/capilla/html/261119_reconocer-la-visita.html) · 19 de noviembre de 2026. Una lectura sobre el llanto por la ciudad que no reconoció su hora y el libro sellado que el Cordero ya abrió: comprender, mientras es tiempo, lo que conduce a la paz.
 - [Invertir lo recibido](md/261118_invertir-lo-recibido.md) · [HTML](https://osmancitov.github.io/capilla/html/261118_invertir-lo-recibido.html) · 18 de noviembre de 2026. Una lectura sobre recibirlo todo como moneda prestada y hacerlo fructificar sin miedo, con la dedicación de las Basílicas de San Pedro y San Pablo y la memoria de santa Rosa Filipina Duchesne.

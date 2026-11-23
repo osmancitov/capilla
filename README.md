@@ -6,6 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Todo lo que tenía](md/261123_todo-lo-que-tenia.md) · [HTML](https://osmancitov.github.io/capilla/html/261123_todo-lo-que-tenia.html) · 23 de noviembre de 2026. Una lectura sobre la viuda que da todo lo que tiene para vivir, el cántico nuevo del Cordero en el monte, y las memorias de san Columbano, el beato Miguel Pro y san Clemente I.
 - [El rey pastor](md/261122_el-rey-pastor.md) · [HTML](https://osmancitov.github.io/capilla/html/261122_el-rey-pastor.html) · 22 de noviembre de 2026. Una lectura sobre el pastor que busca a la oveja perdida, el rey que reina hasta entregar el reino al Padre y el juicio que mide lo que hicimos con el más insignificante.
 - [Dios de vivos](md/261121_dios-de-vivos.md) · [HTML](https://osmancitov.github.io/capilla/html/261121_dios-de-vivos.html) · 21 de noviembre de 2026. Una lectura sobre el testimonio que la muerte no apaga, el Dios de Abraham, Isaac y Jacob que no es Dios de muertos sino de vivos, y la memoria de la Presentación de la Virgen María.
 - [Dulce y amarga](md/261120_dulce-y-amarga.md) · [HTML](https://osmancitov.github.io/capilla/html/261120_dulce-y-amarga.html) · 20 de noviembre de 2026. Una lectura sobre comer la palabra entera, dulce como la miel y amarga al bajar, y dejar que limpie la casa del corazón hasta volverla casa de oración.

@@ -6,6 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Ni un cabello](md/261125_ni-un-cabello.md) · [HTML](https://osmancitov.github.io/capilla/html/261125_ni-un-cabello.html) · 25 de noviembre de 2026. Una lectura sobre el cántico de los vencedores junto al mar de cristal, la firmeza sin miedo que consigue la vida, y la memoria de santa Catalina de Alejandría, virgen y mártir.
 - [La mies madura](md/261124_la-mies-madura.md) · [HTML](https://osmancitov.github.io/capilla/html/261124_la-mies-madura.html) · 24 de noviembre de 2026. Una lectura sobre la mies que madura para la hoz, las piedras del templo que no durarán y la fidelidad sin pánico, con la memoria de san Andrés Dũng-Lạc y compañeros, mártires.
 - [Todo lo que tenía](md/261123_todo-lo-que-tenia.md) · [HTML](https://osmancitov.github.io/capilla/html/261123_todo-lo-que-tenia.html) · 23 de noviembre de 2026. Una lectura sobre la viuda que da todo lo que tiene para vivir, el cántico nuevo del Cordero en el monte, y las memorias de san Columbano, el beato Miguel Pro y san Clemente I.
 - [El rey pastor](md/261122_el-rey-pastor.md) · [HTML](https://osmancitov.github.io/capilla/html/261122_el-rey-pastor.html) · 22 de noviembre de 2026. Una lectura sobre el pastor que busca a la oveja perdida, el rey que reina hasta entregar el reino al Padre y el juicio que mide lo que hicimos con el más insignificante.

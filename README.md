@@ -6,6 +6,7 @@ Una capilla es un lugar pequeño destinado a la oración. La palabra viene del l
 
 ## Entradas
 
+- [Hojas que sanan](md/261128_hojas-que-sanan.md) · [HTML](https://osmancitov.github.io/capilla/html/261128_hojas-que-sanan.html) · 28 de noviembre de 2026. Una lectura sobre el río del agua viva y el árbol cuyas hojas sanan a las naciones, la vigilia que no se deja sorprender y la ciudad donde ya no habrá noche.
 - [Palabras que no pasan](md/261127_palabras-que-no-pasan.md) · [HTML](https://osmancitov.github.io/capilla/html/261127_palabras-que-no-pasan.html) · 27 de noviembre de 2026. Una lectura sobre el juicio del trono y el dragón encadenado, el gorrión que encuentra casa en los altares y las palabras que no pasan cuando todo lo demás pasa.
 - [Levanten la cabeza](md/261126_levanten-la-cabeza.md) · [HTML](https://osmancitov.github.io/capilla/html/261126_levanten-la-cabeza.html) · 26 de noviembre de 2026. Una lectura sobre la caída de la gran ciudad que se creía eterna, la alegría de servir y dar gracias, y la cabeza en alto porque la liberación se acerca.
 - [Ni un cabello](md/261125_ni-un-cabello.md) · [HTML](https://osmancitov.github.io/capilla/html/261125_ni-un-cabello.html) · 25 de noviembre de 2026. Una lectura sobre el cántico de los vencedores junto al mar de cristal, la firmeza sin miedo que consigue la vida, y la memoria de santa Catalina de Alejandría, virgen y mártir.
